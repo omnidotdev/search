@@ -35,7 +35,7 @@
     "search",
     "multi-tenant"
   ],
-  "license": "MIT",
+  "license": "Apache-2.0",
   "homepage": "https://github.com/omnidotdev/search#readme",
   "repository": {
     "type": "git",
