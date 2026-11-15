@@ -1,7 +1,7 @@
 {
   "name": "@omnidotdev/search",
+  "private": true,
   "version": "0.0.0",
-  "private": false,
   "type": "module",
   "description": "Meilisearch wrapper with multi-tenant support for Omni products",
   "main": "./build/index.cjs",
